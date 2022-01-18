@@ -68,7 +68,7 @@ You are recommended to use the [RStudio IDE](https://www.rstudio.com/products/rs
 ---
 background-image: url(`r xaringan:::karl`)
 background-position: 50% 50%
-class: center, bottom, inverse
+class: center, bottom, inverseh
 
 # You only live once!
 
